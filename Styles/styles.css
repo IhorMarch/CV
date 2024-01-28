@@ -6,7 +6,7 @@ body{
 .main {
     display: flex;
     flex-direction: row-reverse;
-    width: 100%;
+    width: 1200px;
    
         padding-left: 16px;
         padding-right: 16px;
